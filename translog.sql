@@ -1,3 +1,5 @@
+---Eduardo Alex
+
 -- Criação da tabela de dimensão: dim_cliente
 CREATE TABLE dim_cliente (
     cliente_sk SERIAL PRIMARY KEY,
